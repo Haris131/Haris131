@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, welcome to my code ^^
+
+![](https://komarev.com/ghpvc/?username=Haris131&color=green)
+
+![anarki-install github stats](https://github-readme-stats.vercel.app/api?username=Haris131&show_icons=true&theme=default) 
+
+### Contact
+
+- [Facebook](fb.me/hrs.chjporo)
+- [Telegram](t.me/Chewy_Mage)
 
 <!--
 **Haris131/Haris131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
