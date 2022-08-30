@@ -8,8 +8,8 @@
 
 ### Contact
 
-- [Facebook](fb.me/hrs.chjporo)
-- [Telegram](t.me/Chewy_Mage)
+- [Facebook](https://fb.me/hrs.chjporo)
+- [Telegram](https://t.me/Chewy_Mage)
 
 <!--
 **Haris131/Haris131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
