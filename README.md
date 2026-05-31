@@ -24,8 +24,8 @@ I'm a passionate developer who loves building cool things and exploring new tech
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haris131&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris131&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haris131&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haris131&theme=tokyonight" alt="Top Languages" height="165" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haris131&theme=tokyonight" alt="GitHub Streak" />
 </div>
